@@ -1,23 +1,22 @@
-#### Fetch the code
-git clone https://github.com/wuping2004/Documents 
+>Fetch the code
+>>git clone https://github.com/wuping2004/Documents 
 
-#### Modify the user name & email
-git config --global user.name ping
-git config --global user.email wuping2004@icloud.com
+>Modify the user name & email
+>>git config --global user.name ping
+>>git config --global user.email wuping2004@icloud.com
 
-#### Track files
-git add .
+>Track files
+>>git add .
 
-#### Untrack files
-git reset head . 
+>Untrack files
+>>git reset head . 
+>Commit files
+>>git commit -m "comments"
 
-#### Commit files
-git commit -m "comments"
+>Push changes to remote
+>>git push
 
-#### Push changes to remote
-git push
-
-#### Pull latest from reomote
-git pull
+>Pull latest from reomote
+>>git pull
 
 
