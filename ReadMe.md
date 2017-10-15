@@ -1,8 +1,3 @@
-# This is just a test for git hub
-## well done...
-
-new test
-
-## how about using it...
-
-asdfs
+### Document Outline
+----
+- [Command For Git](https://github.com/wuping2004/Documents/blob/master/Git.md)

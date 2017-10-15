@@ -3,7 +3,10 @@
 - Fetch the code
 
         git clone https://github.com/wuping2004/Documents 
+- Shows remote url
 
+        git remote -v
+        
 - Modify the user name & email
 
         git config --global user.name ping
