@@ -1,22 +1,31 @@
->Fetch the code
->>git clone https://github.com/wuping2004/Documents 
+- Fetch the code
 
->Modify the user name & email
->>git config --global user.name ping
->>git config --global user.email wuping2004@icloud.com
+        git clone https://github.com/wuping2004/Documents 
 
->Track files
->>git add .
+- Modify the user name & email
 
->Untrack files
->>git reset head . 
->Commit files
->>git commit -m "comments"
+        git config --global user.name ping
 
->Push changes to remote
->>git push
+        git config --global user.email wuping2004@icloud.com
 
->Pull latest from reomote
->>git pull
+- Make files tracked
+        
+        git add .
+
+- Untrack files
+ 
+        git reset head . 
+
+- Commit files
+
+        git commit -m "comments"
+
+-  Push changes to remote
+
+        git push
+
+- Pull latest from reomote
+
+        git pull
 
 
